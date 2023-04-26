@@ -1,4 +1,4 @@
-# joomla_examples
+# Joomla! Examples
 ## Misc Small Joomla Projects
 
 Currently, just the content plugin. I plan on using this repo for other smaller projects too. Check out my other repos for more projects, Joomla extensions, etc...
